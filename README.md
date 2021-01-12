@@ -14,7 +14,7 @@ testname = ['Ref'; 'Dn1'; 'Dn2'; 'Dn3'; 'Dn4'; 'Dn5'; 'Dn6'; 'Dn7'];    % Name o
 
 freq = [100; 150; 200; 250; 300];                                       % Excitation frequencies used (in kHz)
 
-numrept = 1:4;                                                          % Number of times the measurement of each tested condition was repeated
+numrept = 1:3;                                                          % Number of times the measurement of each tested condition was repeated
 
 nummeas = 10;                                                           % Number of measurements per condition tested
 
